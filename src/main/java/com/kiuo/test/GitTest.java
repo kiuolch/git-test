@@ -1,4 +1,4 @@
-package main.java.com.kiuo.test;
+package com.kiuo.test;
 
 public class GitTest {
     public static void main(String[] args) {
